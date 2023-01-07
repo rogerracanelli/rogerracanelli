@@ -3,6 +3,7 @@
   <a href="https://github.com/rogerracanelli">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rogerracanelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
   ## Tecnologias que ultilizo no momento:
 
 <div style="display: inline_block"><br>
@@ -13,7 +14,7 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" src=>
 </div>
   
-  ## Fale comigo::
+  ## Fale comigo:
  
 <div> 
   <a href = "rogerracanelli1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
